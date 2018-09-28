@@ -8,5 +8,9 @@ This is a change to demo commits
 
 This is to demo branching
 
+* add some stuff
+* more stuff
+* I love my girlfriend :heart:
+
 # From Camille
 I love octopi
